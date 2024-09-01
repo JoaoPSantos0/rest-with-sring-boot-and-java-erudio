@@ -62,6 +62,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/joaopedro/eclipse-workspace/first-steps/rest-with-spring-boot-and-java-erudio"/>
 			<item value="/home/joaopedro/eclipse-workspace/rest-with-spring-boot-and-java-erudio"/>
 		</list>
 		<list key="projectNameTemplate">
